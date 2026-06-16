@@ -5,6 +5,6 @@
   "author": {
     "name": "Google"
   },
-  "repository": "https://github.com/palladius/conductor",
+  "repository": "https://github.com/gemini-cli-extensions/conductor",
   "license": "Apache 2.0"
 }
